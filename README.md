@@ -1,23 +1,32 @@
 ## 🚀 EnigmaCore
 
 ## 📜 Descripción
-
+Dadas las nuevas fronteras cibernéticas la seguridad de la nación es un
+problema crucial, mantener la seguridad, disponibilidad e integridad de la
+información es la prioridad de muchos organismos internacionales. pensar Para
+el desarrollo de la entrevista nos vimos sometidos a la problemática de ¿Cómo
+generar un buen cifrado de la información? ¿Cómo mantener la
+confidencialidad de la información gubernamental?
 
 
 ## 🛠️ Tecnologías
 
 - **C++**: Lenguaje de programación principal utilizado para desarrollar la lógica de la aplicación.
+- **PHP**: Lenguaje utilizado para el diseño de la página.
 - **Docker**: Herramienta para crear contenedores que aseguran que la aplicación funcione de manera consistente en
   diferentes entornos.
 - **Docker Compose**: Utilizado para definir y ejecutar aplicaciones Docker de múltiples contenedores, facilitando la
   gestión de servicios relacionados.
 - **OpenSSL**: Biblioteca utilizada para implementar funciones de criptografía y seguridad en la aplicación.
+- **Cmake**: Extensión utilizada para empaquetar el proyecto.
+- **Xampp**: Gestior de bases de datos de código abierto.
+
 
 ## 📁 Estructura del Proyecto
 
  ```text
-   /Codefest-AD-Astra-2024
-├── app.cpp
+   /EnigmaCore
+├── app.exe
 ├── Documento.pdf
 ├── Dockerfile
 ├── docker-compose.yml
@@ -25,7 +34,7 @@
 ├── video
 │   └── video.mp4
 └── data
-    └── 5.NEF
+    └── EnigmaCore
 └── main.cpp
    ```
 
@@ -34,13 +43,13 @@
 **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/JaiderSe/Codefest-AD-Astra-Final-1.git
+   git clone https://github.com/JaiderSe/EnigmaCore.git
    ```
 
 Redirigir al directorio del proyecto:
 
    ```bash
-   cd codefest-ad-astra-2024
+   cd EnigmaCore
    ```
 
 ## Compilar el Código
@@ -196,11 +205,12 @@ https://www.mundodeportivo.com/urbantecno/windows/crear-ficheros-pruebas
 
 
 JAIDER SEBASTIAN MORENO QUINTERO <>
+JUAN SEBASTIAN MARTINEZ PINTO <>
+MICHACEL STEVEN SALAMANCA MARTIN <>
+NICOLAS MARTINEZ VALENZUELA <>
+PAULA ANDREA CASSIANI CASTILLO <>
 
-   -Juan Sebastian Martinez Pinto <>	
--Michael Steven Salamanca Martin <> 
--Nicolas Martinez Valenzuela <>
--Paula Andrea Cassiani Castillo <>
+
 
 
 
