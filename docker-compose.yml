@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  encrypt:
+    build: .
+    container_name: codefest_encrypt
+    volumes:
+      - ./data:/app/data
+    command: ["encrypt", "/app/data/5.NEF", "/app/data/encrypt/image_encrypted.bin"]
+
+  decrypt:
+    build: .
+    container_name: codefest_decrypt
+    volumes:
+      - ./data:/app/data
+    command: ["decrypt", "/app/data/encrypt/image_encrypted.bin", "/app/data/decrypt/image_decrypted.NEF"]
