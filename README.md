@@ -27,10 +27,13 @@ confidencialidad de la información gubernamental?
  ```text
    /EnigmaCore
 ├── app.exe
-├── Documento.pdf
+├── Documento
+    └── link
 ├── Dockerfile
 ├── docker-compose.yml
 ├── README.md
+├── presentación
+    └── link
 ├── video
 │   └── video.mp4
 └── data
