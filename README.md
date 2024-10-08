@@ -1,18 +1,8 @@
-## 🚀 Codefest-AD-Astra 2024
+## 🚀 EnigmaCore
 
 ## 📜 Descripción
 
-Codefest-AD-Astra 2024 es una competencia de desarrollo de software organizada por la Fuerza Aérea Colombiana. Este
-proyecto tiene como objetivo desarrollar una aplicación en C++ para abordar un desafío específico en el ámbito de la
-tecnología y la innovación. La aplicación está diseñada para realizar la encriptación y desencriptación de archivos
-utilizando el algoritmo AES-256 en modo CTR, garantizando así la seguridad y confidencialidad de los datos.
 
-El proyecto hace uso de Docker para la contenerización, lo que permite asegurar un entorno de desarrollo homogéneo y
-simplifica la implementación en producción. Además, se emplea OpenSSL para implementar funciones de criptografía
-avanzadas, como el cifrado y descifrado de datos, asegurando que la aplicación sea robusta y confiable.
-
-Nota: La aplicación puede manejar cualquier tipo de dato, no está limitada a archivos específicos como imágenes o
-textos.
 
 ## 🛠️ Tecnologías
 
@@ -204,8 +194,10 @@ https://www.mundodeportivo.com/urbantecno/windows/crear-ficheros-pruebas
 
 ## 👥 Participantes
 
--Jaider Sebastián Moreno Quintero <>
--Juan Sebastian Martinez Pinto <>	
+
+JAIDER SEBASTIAN MORENO QUINTERO <>
+
+   -Juan Sebastian Martinez Pinto <>	
 -Michael Steven Salamanca Martin <> 
 -Nicolas Martinez Valenzuela <>
 -Paula Andrea Cassiani Castillo <>
