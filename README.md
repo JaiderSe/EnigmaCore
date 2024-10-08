@@ -42,6 +42,10 @@ confidencialidad de la información gubernamental?
    ```
 **📃 Documento:**
 [link](https://docs.google.com/document/d/1XIufhD5CDdTANUuCa4ErJ2JmE23ocNAb/edit?usp=sharing&ouid=101133439373846812321&rtpof=true&sd=true)
+
+**📊 Presentación:**
+[link](https://www.canva.com/design/DAGMUxQby0g/3zOM52Z05uOhtF1ILfYg0g/view?utm_content=DAGMUxQby0g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 **🚀 Instalación:**
 
 **Clonar el repositorio:**
