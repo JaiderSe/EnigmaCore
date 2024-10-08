@@ -1,5 +1,5 @@
 ## 🚀 EnigmaCore
-
+![alt text](fondo.jpg)
 ## 📜 Descripción
 Dadas las nuevas fronteras cibernéticas la seguridad de la nación es un
 problema crucial, mantener la seguridad, disponibilidad e integridad de la
