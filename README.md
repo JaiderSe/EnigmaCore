@@ -204,11 +204,12 @@ https://www.mundodeportivo.com/urbantecno/windows/crear-ficheros-pruebas
 
 ## 👥 Participantes
 
-DELGADO DIAZ DIEGO ARLEY <dadelgadod@udistrital.edu.co>
+Jaider Sebastián Moreno Quintero <>
+Juan Sebastian Martinez Pinto <>	
+Michael Steven Salamanca Martin <> 
+Nicolas Martinez Valenzuela <>
+Paula Andrea Cassiani Castillo <>
 
-VILLALBA BELTRAN CAREN DANIELA <cdvillalbab@udistrital.edu.co>
 
-JAIDER SEBASTIAN MORENO QUINTERO <jsmorenoq@udistrital.edu.co>
 
-NICOLAS ENRIQUE RUIZ VEGA <neruizv@udistrital.edu.co>
 
