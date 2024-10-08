@@ -28,7 +28,7 @@ confidencialidad de la información gubernamental?
    /EnigmaCore
 ├── app.exe
 ├── Documento
-    └── [link](https://docs.google.com/document/d/1XIufhD5CDdTANUuCa4ErJ2JmE23ocNAb/edit?usp=sharing&ouid=101133439373846812321&rtpof=true&sd=true)
+    └── link
 ├── Dockerfile
 ├── docker-compose.yml
 ├── README.md
@@ -40,7 +40,8 @@ confidencialidad de la información gubernamental?
     └── EnigmaCore
 └── main.cpp
    ```
-
+**📃 Documento:**
+[link](https://docs.google.com/document/d/1XIufhD5CDdTANUuCa4ErJ2JmE23ocNAb/edit?usp=sharing&ouid=101133439373846812321&rtpof=true&sd=true)
 **🚀 Instalación:**
 
 **Clonar el repositorio:**
