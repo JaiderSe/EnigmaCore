@@ -204,11 +204,11 @@ https://www.mundodeportivo.com/urbantecno/windows/crear-ficheros-pruebas
 
 ## 👥 Participantes
 
-Jaider Sebastián Moreno Quintero <>
-Juan Sebastian Martinez Pinto <>	
-Michael Steven Salamanca Martin <> 
-Nicolas Martinez Valenzuela <>
-Paula Andrea Cassiani Castillo <>
+-Jaider Sebastián Moreno Quintero <>
+-Juan Sebastian Martinez Pinto <>	
+-Michael Steven Salamanca Martin <> 
+-Nicolas Martinez Valenzuela <>
+-Paula Andrea Cassiani Castillo <>
 
 
 
