@@ -204,11 +204,15 @@ https://www.mundodeportivo.com/urbantecno/windows/crear-ficheros-pruebas
 ## 👥 Participantes
 
 
-JAIDER SEBASTIAN MORENO QUINTERO <>
-JUAN SEBASTIAN MARTINEZ PINTO <>
-MICHACEL STEVEN SALAMANCA MARTIN <>
-NICOLAS MARTINEZ VALENZUELA <>
-PAULA ANDREA CASSIANI CASTILLO <>
+JAIDER SEBASTIAN MORENO QUINTERO <jaider_smoreno@soy.sena.edu.co>
+
+JUAN SEBASTIAN MARTINEZ PINTO <sebaspinto96@gmail.com>
+
+MICHACEL STEVEN SALAMANCA MARTIN <salamancamai12@gmail.com>
+
+NICOLAS MARTINEZ VALENZUELA <nicomav1101023@gmail.com>
+
+PAULA ANDREA CASSIANI CASTILLO <paulaacassiani@gmail.com>
 
 
 
